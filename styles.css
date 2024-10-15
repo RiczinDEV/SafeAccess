@@ -79,28 +79,4 @@ button[type="submit"]:hover {
     gap: 10px;
 }
 
-.google-btn, .facebook-btn {
-    padding: 10px;
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-    cursor: pointer;
-}
 
-.google-btn {
-    background-color: #4285F4;
-    color: white;
-}
-
-.google-btn:hover {
-    background-color: #357ae8;
-}
-
-.facebook-btn {
-    background-color: #3b5998;
-    color: white;
-}
-
-.facebook-btn:hover {
-    background-color: #30487b;
-}
